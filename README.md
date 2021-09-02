@@ -1,2 +1,2 @@
-# Hamoye-Course-1-Assessment
-Submission for Course 1 quiz
+# Hamoye-Course-Internship-Assessment
+Submission for Courses' quizes
