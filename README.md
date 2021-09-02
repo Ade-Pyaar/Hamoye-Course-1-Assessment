@@ -1,2 +1,2 @@
 # Hamoye-Course-Internship-Assessment
-Submission for Courses' quizes
+Submission for Courses' quiz
